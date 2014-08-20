@@ -1,0 +1,9 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\bin\Debug\RemoveNames.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\bin\Debug\RemoveNames.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\bin\Debug\RemoveNames.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\obj\Debug\09_RemoveNames.csprojResolveAssemblyReference.cache
+c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\obj\Debug\RemoveNames.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\obj\Debug\RemoveNames.pdb
+D:\My Documents\Programming\HomeworkAdvancedTopics\RemoveNames\bin\Debug\RemoveNames.exe.config
+D:\My Documents\Programming\HomeworkAdvancedTopics\RemoveNames\obj\Debug\RemoveNames.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\RemoveNames\obj\Debug\RemoveNames.pdb

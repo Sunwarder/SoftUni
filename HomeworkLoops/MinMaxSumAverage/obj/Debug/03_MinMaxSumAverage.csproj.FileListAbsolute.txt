@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkLoops\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.exe.config
+D:\My Documents\Programming\HomeworkLoops\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.exe
+D:\My Documents\Programming\HomeworkLoops\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.pdb
+D:\My Documents\Programming\HomeworkLoops\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.exe
+D:\My Documents\Programming\HomeworkLoops\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.pdb

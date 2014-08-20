@@ -1,0 +1,6 @@
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\BitsUp\bin\Debug\BitsUp.exe.config
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\BitsUp\bin\Debug\BitsUp.exe
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\BitsUp\bin\Debug\BitsUp.pdb
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\BitsUp\obj\Debug\BitsUp.csprojResolveAssemblyReference.cache
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\BitsUp\obj\Debug\BitsUp.exe
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\BitsUp\obj\Debug\BitsUp.pdb

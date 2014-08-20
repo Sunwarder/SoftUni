@@ -1,0 +1,5 @@
+D:\My Documents\Programming\SimpleLoops\DrawFigure\bin\Debug\DrawFigure.exe.config
+D:\My Documents\Programming\SimpleLoops\DrawFigure\bin\Debug\DrawFigure.exe
+D:\My Documents\Programming\SimpleLoops\DrawFigure\bin\Debug\DrawFigure.pdb
+D:\My Documents\Programming\SimpleLoops\DrawFigure\obj\Debug\DrawFigure.exe
+D:\My Documents\Programming\SimpleLoops\DrawFigure\obj\Debug\DrawFigure.pdb

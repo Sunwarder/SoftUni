@@ -1,0 +1,5 @@
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkAdvancedTopics\AverageLoadTimeCalculator\bin\Debug\AverageLoadTimeCalculator.exe.config
+D:\My Documents\Programming\HomeworkAdvancedTopics\AverageLoadTimeCalculator\bin\Debug\AverageLoadTimeCalculator.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\AverageLoadTimeCalculator\bin\Debug\AverageLoadTimeCalculator.pdb
+D:\My Documents\Programming\HomeworkAdvancedTopics\AverageLoadTimeCalculator\obj\Debug\AverageLoadTimeCalculator.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\AverageLoadTimeCalculator\obj\Debug\AverageLoadTimeCalculator.pdb

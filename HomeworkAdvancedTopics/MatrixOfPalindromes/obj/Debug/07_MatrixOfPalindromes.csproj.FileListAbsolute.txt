@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+D:\My Documents\Programming\HomeworkAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+D:\My Documents\Programming\HomeworkAdvancedTopics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

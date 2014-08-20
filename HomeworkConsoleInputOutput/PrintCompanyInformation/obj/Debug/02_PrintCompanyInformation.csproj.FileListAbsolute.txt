@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+D:\My Documents\Programming\HomeworkConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+D:\My Documents\Programming\HomeworkConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+D:\My Documents\Programming\HomeworkConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+D:\My Documents\Programming\HomeworkConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

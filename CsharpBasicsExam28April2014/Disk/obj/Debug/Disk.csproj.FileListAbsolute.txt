@@ -1,0 +1,5 @@
+D:\My Documents\Programming\CsharpBasicsExam28April2014\Disk\bin\Debug\Disk.exe.config
+D:\My Documents\Programming\CsharpBasicsExam28April2014\Disk\bin\Debug\Disk.exe
+D:\My Documents\Programming\CsharpBasicsExam28April2014\Disk\bin\Debug\Disk.pdb
+D:\My Documents\Programming\CsharpBasicsExam28April2014\Disk\obj\Debug\Disk.exe
+D:\My Documents\Programming\CsharpBasicsExam28April2014\Disk\obj\Debug\Disk.pdb

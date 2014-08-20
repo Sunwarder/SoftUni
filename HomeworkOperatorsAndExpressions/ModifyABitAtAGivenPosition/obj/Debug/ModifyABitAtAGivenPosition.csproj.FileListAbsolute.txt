@@ -1,0 +1,8 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\bin\Debug\ModifyABitAtAGivenPosition.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\bin\Debug\ModifyABitAtAGivenPosition.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\bin\Debug\ModifyABitAtAGivenPosition.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\obj\Debug\ModifyABitAtAGivenPosition.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\obj\Debug\ModifyABitAtAGivenPosition.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\bin\Debug\ModifyABitAtAGivenPosition.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\obj\Debug\ModifyABitAtAGivenPosition.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\ModifyABitAtAGivenPosition\obj\Debug\ModifyABitAtAGivenPosition.pdb

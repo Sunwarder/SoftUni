@@ -1,0 +1,8 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\obj\Debug\CheckABitAtAGivenPosition.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\obj\Debug\CheckABitAtAGivenPosition.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\obj\Debug\CheckABitAtAGivenPosition.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\CheckABitAtAGivenPosition\obj\Debug\CheckABitAtAGivenPosition.pdb

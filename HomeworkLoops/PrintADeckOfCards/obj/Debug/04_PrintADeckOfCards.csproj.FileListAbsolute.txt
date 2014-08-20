@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkLoops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.exe.config
+D:\My Documents\Programming\HomeworkLoops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.exe
+D:\My Documents\Programming\HomeworkLoops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.pdb
+D:\My Documents\Programming\HomeworkLoops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.exe
+D:\My Documents\Programming\HomeworkLoops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.pdb

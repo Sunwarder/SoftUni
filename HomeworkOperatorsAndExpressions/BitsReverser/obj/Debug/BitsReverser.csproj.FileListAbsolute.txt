@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsReverser\bin\Debug\BitsReverser.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsReverser\bin\Debug\BitsReverser.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsReverser\bin\Debug\BitsReverser.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsReverser\obj\Debug\BitsReverser.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsReverser\obj\Debug\BitsReverser.pdb
