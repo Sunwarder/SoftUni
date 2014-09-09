@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
-D:\My Documents\Programming\HomeworkConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
-D:\My Documents\Programming\HomeworkConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

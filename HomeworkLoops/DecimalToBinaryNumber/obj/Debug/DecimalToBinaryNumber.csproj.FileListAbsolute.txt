@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
-D:\My Documents\Programming\HomeworkLoops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
-D:\My Documents\Programming\HomeworkLoops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
-D:\My Documents\Programming\HomeworkLoops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
-D:\My Documents\Programming\HomeworkLoops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

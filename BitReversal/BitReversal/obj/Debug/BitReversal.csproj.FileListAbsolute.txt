@@ -1,6 +1,0 @@
-D:\My Documents\Programming\BitReversal\BitReversal\bin\Debug\BitReversal.exe.config
-D:\My Documents\Programming\BitReversal\BitReversal\bin\Debug\BitReversal.exe
-D:\My Documents\Programming\BitReversal\BitReversal\bin\Debug\BitReversal.pdb
-D:\My Documents\Programming\BitReversal\BitReversal\obj\Debug\BitReversal.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\BitReversal\BitReversal\obj\Debug\BitReversal.exe
-D:\My Documents\Programming\BitReversal\BitReversal\obj\Debug\BitReversal.pdb

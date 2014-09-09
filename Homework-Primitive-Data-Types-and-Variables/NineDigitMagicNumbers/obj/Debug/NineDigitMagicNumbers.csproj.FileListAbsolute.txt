@@ -1,6 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb

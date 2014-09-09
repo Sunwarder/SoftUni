@@ -1,1 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\DecimalToHexademical\bin\Debug\DecimalToHexademical.exe.config

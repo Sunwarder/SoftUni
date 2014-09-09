@@ -1,8 +1,0 @@
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb

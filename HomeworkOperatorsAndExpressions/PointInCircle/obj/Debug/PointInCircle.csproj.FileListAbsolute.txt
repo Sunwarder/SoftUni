@@ -1,8 +1,0 @@
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.pdb
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb

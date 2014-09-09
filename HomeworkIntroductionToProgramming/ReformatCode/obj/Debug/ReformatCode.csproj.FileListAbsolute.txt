@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Solution1\ReformatCode\bin\Debug\ReformatCode.exe.config
-D:\My Documents\Programming\Solution1\ReformatCode\bin\Debug\ReformatCode.exe
-D:\My Documents\Programming\Solution1\ReformatCode\bin\Debug\ReformatCode.pdb
-D:\My Documents\Programming\Solution1\ReformatCode\obj\Debug\ReformatCode.exe
-D:\My Documents\Programming\Solution1\ReformatCode\obj\Debug\ReformatCode.pdb

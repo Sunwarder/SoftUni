@@ -1,6 +1,0 @@
-D:\My Documents\Programming\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe.config
-D:\My Documents\Programming\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe
-D:\My Documents\Programming\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.pdb
-D:\My Documents\Programming\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.exe
-D:\My Documents\Programming\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.pdb

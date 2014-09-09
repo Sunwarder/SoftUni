@@ -1,1 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config

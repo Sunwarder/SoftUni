@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\DecimalToHexademical\bin\Debug\DecimalToHexademical.exe.config
-D:\My Documents\Programming\HomeworkLoops\DecimalToHexademical\bin\Debug\DecimalToHexademical.exe
-D:\My Documents\Programming\HomeworkLoops\DecimalToHexademical\bin\Debug\DecimalToHexademical.pdb
-D:\My Documents\Programming\HomeworkLoops\DecimalToHexademical\obj\Debug\DecimalToHexademical.exe
-D:\My Documents\Programming\HomeworkLoops\DecimalToHexademical\obj\Debug\DecimalToHexademical.pdb

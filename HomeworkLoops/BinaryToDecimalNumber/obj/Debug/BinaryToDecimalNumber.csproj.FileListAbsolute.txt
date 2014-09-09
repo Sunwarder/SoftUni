@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe.config
-D:\My Documents\Programming\HomeworkLoops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
-D:\My Documents\Programming\HomeworkLoops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
-D:\My Documents\Programming\HomeworkLoops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkLoops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
-D:\My Documents\Programming\HomeworkLoops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb

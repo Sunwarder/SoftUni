@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe.config
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestAreaInArray\bin\Debug\LongestAreaInArray.pdb
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestAreaInArray\obj\Debug\06_LongestAreaInArray.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestAreaInArray\obj\Debug\LongestAreaInArray.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestAreaInArray\obj\Debug\LongestAreaInArray.pdb

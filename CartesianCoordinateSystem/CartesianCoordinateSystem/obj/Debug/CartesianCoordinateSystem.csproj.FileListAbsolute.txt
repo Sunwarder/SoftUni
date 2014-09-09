@@ -1,6 +1,0 @@
-D:\My Documents\Programming\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
-D:\My Documents\Programming\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
-D:\My Documents\Programming\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
-D:\My Documents\Programming\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
-D:\My Documents\Programming\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\EmployeeData\bin\Debug\EmployeeData.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\EmployeeData\bin\Debug\EmployeeData.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\EmployeeData\bin\Debug\EmployeeData.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\EmployeeData\obj\Debug\EmployeeData.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\EmployeeData\obj\Debug\EmployeeData.pdb

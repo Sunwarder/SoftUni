@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BitsInverter\bin\Debug\BitsInverter.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BitsInverter\bin\Debug\BitsInverter.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BitsInverter\bin\Debug\BitsInverter.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BitsInverter\obj\Debug\BitsInverter.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BitsInverter\obj\Debug\BitsInverter.pdb

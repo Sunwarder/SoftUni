@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\PrintTheAsciiTable\bin\Debug\PrintTheAsciiTable.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\PrintTheAsciiTable\bin\Debug\PrintTheAsciiTable.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\PrintTheAsciiTable\bin\Debug\PrintTheAsciiTable.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\PrintTheAsciiTable\obj\Debug\PrintTheAsciiTable.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\PrintTheAsciiTable\obj\Debug\PrintTheAsciiTable.pdb

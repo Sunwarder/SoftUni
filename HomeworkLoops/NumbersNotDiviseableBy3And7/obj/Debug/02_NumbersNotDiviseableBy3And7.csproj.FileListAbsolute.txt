@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\NumbersNotDiviseableBy3And7\bin\Debug\NumbersNotDiviseableBy3And7.exe.config
-D:\My Documents\Programming\HomeworkLoops\NumbersNotDiviseableBy3And7\bin\Debug\NumbersNotDiviseableBy3And7.exe
-D:\My Documents\Programming\HomeworkLoops\NumbersNotDiviseableBy3And7\bin\Debug\NumbersNotDiviseableBy3And7.pdb
-D:\My Documents\Programming\HomeworkLoops\NumbersNotDiviseableBy3And7\obj\Debug\NumbersNotDiviseableBy3And7.exe
-D:\My Documents\Programming\HomeworkLoops\NumbersNotDiviseableBy3And7\obj\Debug\NumbersNotDiviseableBy3And7.pdb

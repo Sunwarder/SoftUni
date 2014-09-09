@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableExchange\bin\Debug\VariableExchange.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableExchange\bin\Debug\VariableExchange.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableExchange\bin\Debug\VariableExchange.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableExchange\obj\Debug\VariableExchange.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableExchange\obj\Debug\VariableExchange.pdb

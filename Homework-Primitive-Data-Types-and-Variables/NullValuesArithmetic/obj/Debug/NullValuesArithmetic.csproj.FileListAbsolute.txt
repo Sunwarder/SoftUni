@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb

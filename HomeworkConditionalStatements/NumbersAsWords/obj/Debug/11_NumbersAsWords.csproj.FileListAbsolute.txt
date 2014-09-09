@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
-D:\My Documents\Programming\HomeworkConditionalStatements\NumbersAsWords\bin\Debug\NumbersAsWords.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\NumbersAsWords\bin\Debug\NumbersAsWords.pdb
-D:\My Documents\Programming\HomeworkConditionalStatements\NumbersAsWords\obj\Debug\NumbersAsWords.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\NumbersAsWords\obj\Debug\NumbersAsWords.pdb

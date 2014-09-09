@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
-D:\My Documents\Programming\HomeworkLoops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
-D:\My Documents\Programming\HomeworkLoops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
-D:\My Documents\Programming\HomeworkLoops\NumbersFrom1ToN\obj\Debug\01_NumbersFrom1ToN.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkLoops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
-D:\My Documents\Programming\HomeworkLoops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

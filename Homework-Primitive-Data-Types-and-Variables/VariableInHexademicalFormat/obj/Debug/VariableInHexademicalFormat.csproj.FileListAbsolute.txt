@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableInHexademicalFormat\bin\Debug\VariableInHexademicalFormat.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableInHexademicalFormat\bin\Debug\VariableInHexademicalFormat.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableInHexademicalFormat\bin\Debug\VariableInHexademicalFormat.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableInHexademicalFormat\obj\Debug\VariableInHexademicalFormat.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\VariableInHexademicalFormat\obj\Debug\VariableInHexademicalFormat.pdb

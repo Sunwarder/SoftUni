@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
-D:\My Documents\Programming\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
-D:\My Documents\Programming\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

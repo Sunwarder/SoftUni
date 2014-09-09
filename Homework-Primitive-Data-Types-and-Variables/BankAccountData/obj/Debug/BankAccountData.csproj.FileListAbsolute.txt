@@ -1,6 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BankAccountData\bin\Debug\BankAccountData.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BankAccountData\bin\Debug\BankAccountData.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BankAccountData\bin\Debug\BankAccountData.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BankAccountData\obj\Debug\BankAccountData.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\BankAccountData\obj\Debug\BankAccountData.pdb

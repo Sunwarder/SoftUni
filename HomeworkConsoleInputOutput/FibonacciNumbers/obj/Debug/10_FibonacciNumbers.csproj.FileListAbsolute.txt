@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
-D:\My Documents\Programming\HomeworkConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
-D:\My Documents\Programming\HomeworkConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

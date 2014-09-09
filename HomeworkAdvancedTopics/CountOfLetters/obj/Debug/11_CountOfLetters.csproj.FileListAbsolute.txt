@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfLetters\bin\Debug\CountOfLetters.exe.config
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfLetters\bin\Debug\CountOfLetters.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfLetters\bin\Debug\CountOfLetters.pdb
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfLetters\obj\Debug\11_CountOfLetters.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfLetters\obj\Debug\CountOfLetters.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfLetters\obj\Debug\CountOfLetters.pdb
