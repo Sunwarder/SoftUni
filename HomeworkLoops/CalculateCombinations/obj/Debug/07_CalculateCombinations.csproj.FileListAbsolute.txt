@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkLoops\CalculateCombinations\bin\Debug\CalculateCombinations.exe.config
+D:\My Documents\Programming\HomeworkLoops\CalculateCombinations\bin\Debug\CalculateCombinations.exe
+D:\My Documents\Programming\HomeworkLoops\CalculateCombinations\bin\Debug\CalculateCombinations.pdb
+D:\My Documents\Programming\HomeworkLoops\CalculateCombinations\obj\Debug\CalculateCombinations.exe
+D:\My Documents\Programming\HomeworkLoops\CalculateCombinations\obj\Debug\CalculateCombinations.pdb

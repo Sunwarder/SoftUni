@@ -1,0 +1,6 @@
+D:\My Documents\Programming\HomeworkLoops\HexademicalToDecimal\bin\Debug\HexademicalToDecimal.exe.config
+D:\My Documents\Programming\HomeworkLoops\HexademicalToDecimal\bin\Debug\HexademicalToDecimal.exe
+D:\My Documents\Programming\HomeworkLoops\HexademicalToDecimal\bin\Debug\HexademicalToDecimal.pdb
+D:\My Documents\Programming\HomeworkLoops\HexademicalToDecimal\obj\Debug\HexademicalToDecimal.csprojResolveAssemblyReference.cache
+D:\My Documents\Programming\HomeworkLoops\HexademicalToDecimal\obj\Debug\HexademicalToDecimal.exe
+D:\My Documents\Programming\HomeworkLoops\HexademicalToDecimal\obj\Debug\HexademicalToDecimal.pdb

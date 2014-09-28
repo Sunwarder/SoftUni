@@ -1,0 +1,3 @@
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb

@@ -1,0 +1,1 @@
+D:\My Documents\Programming\HomeworkConsoleInputOutput\NumbersInIntervalDivideableByGivenNumber\bin\Debug\NumbersInIntervalDivideableByGivenNumber.exe.config

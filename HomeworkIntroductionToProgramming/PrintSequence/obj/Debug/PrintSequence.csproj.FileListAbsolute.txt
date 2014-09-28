@@ -1,0 +1,5 @@
+D:\My Documents\Programming\Solution1\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\My Documents\Programming\Solution1\PrintSequence\bin\Debug\PrintSequence.exe
+D:\My Documents\Programming\Solution1\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\My Documents\Programming\Solution1\PrintSequence\obj\Debug\PrintSequence.exe
+D:\My Documents\Programming\Solution1\PrintSequence\obj\Debug\PrintSequence.pdb

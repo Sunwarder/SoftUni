@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+D:\My Documents\Programming\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+D:\My Documents\Programming\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+D:\My Documents\Programming\HomeworkLoops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+D:\My Documents\Programming\HomeworkLoops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

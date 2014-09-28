@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+D:\My Documents\Programming\HomeworkConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+D:\My Documents\Programming\HomeworkConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+D:\My Documents\Programming\HomeworkConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+D:\My Documents\Programming\HomeworkConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

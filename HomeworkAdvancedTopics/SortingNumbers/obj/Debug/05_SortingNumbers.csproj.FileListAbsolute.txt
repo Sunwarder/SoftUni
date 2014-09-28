@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkAdvancedTopics\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+D:\My Documents\Programming\HomeworkAdvancedTopics\SortingNumbers\bin\Debug\SortingNumbers.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\SortingNumbers\bin\Debug\SortingNumbers.pdb
+D:\My Documents\Programming\HomeworkAdvancedTopics\SortingNumbers\obj\Debug\SortingNumbers.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\SortingNumbers\obj\Debug\SortingNumbers.pdb

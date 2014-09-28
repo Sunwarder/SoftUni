@@ -1,0 +1,8 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb

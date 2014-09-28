@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\My Documents\Programming\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\My Documents\Programming\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\My Documents\Programming\HomeworkConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\My Documents\Programming\HomeworkConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

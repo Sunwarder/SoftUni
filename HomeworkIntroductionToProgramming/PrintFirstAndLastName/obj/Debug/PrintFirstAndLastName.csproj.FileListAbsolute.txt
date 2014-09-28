@@ -1,0 +1,5 @@
+D:\My Documents\Programming\Solution1\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+D:\My Documents\Programming\Solution1\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+D:\My Documents\Programming\Solution1\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+D:\My Documents\Programming\Solution1\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+D:\My Documents\Programming\Solution1\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

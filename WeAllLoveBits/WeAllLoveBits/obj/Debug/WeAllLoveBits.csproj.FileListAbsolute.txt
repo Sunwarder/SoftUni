@@ -1,0 +1,6 @@
+D:\My Documents\Programming\WeAllLoveBits\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+D:\My Documents\Programming\WeAllLoveBits\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+D:\My Documents\Programming\WeAllLoveBits\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+D:\My Documents\Programming\WeAllLoveBits\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+D:\My Documents\Programming\WeAllLoveBits\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+D:\My Documents\Programming\WeAllLoveBits\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

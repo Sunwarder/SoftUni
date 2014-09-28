@@ -1,0 +1,5 @@
+D:\My Documents\Programming\HomeworkConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
+D:\My Documents\Programming\HomeworkConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe
+D:\My Documents\Programming\HomeworkConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.pdb
+D:\My Documents\Programming\HomeworkConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
+D:\My Documents\Programming\HomeworkConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb

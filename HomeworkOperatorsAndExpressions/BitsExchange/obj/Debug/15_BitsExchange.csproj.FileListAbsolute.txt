@@ -1,0 +1,6 @@
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsExchange\bin\Debug\BitsExchange.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsExchange\bin\Debug\BitsExchange.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsExchange\bin\Debug\BitsExchange.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsExchange\obj\Debug\15_BitsExchange.csprojResolveAssemblyReference.cache
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsExchange\obj\Debug\BitsExchange.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsExchange\obj\Debug\BitsExchange.pdb

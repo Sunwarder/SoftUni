@@ -1,0 +1,5 @@
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\ComparingFloats\obj\Debug\ComparingFloats.pdb

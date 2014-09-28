@@ -1,0 +1,5 @@
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\HalfSum\bin\Debug\HalfSum.exe.config
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\HalfSum\bin\Debug\HalfSum.exe
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\HalfSum\bin\Debug\HalfSum.pdb
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\HalfSum\obj\Debug\HalfSum.exe
+D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\HalfSum\obj\Debug\HalfSum.pdb

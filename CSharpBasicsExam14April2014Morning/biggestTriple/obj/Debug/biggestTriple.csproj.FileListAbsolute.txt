@@ -1,0 +1,6 @@
+D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\biggestTriple\bin\Debug\biggestTriple.exe.config
+D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\biggestTriple\bin\Debug\biggestTriple.exe
+D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\biggestTriple\bin\Debug\biggestTriple.pdb
+D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\biggestTriple\obj\Debug\biggestTriple.csprojResolveAssemblyReference.cache
+D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\biggestTriple\obj\Debug\biggestTriple.exe
+D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\biggestTriple\obj\Debug\biggestTriple.pdb

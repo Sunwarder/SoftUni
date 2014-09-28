@@ -1,0 +1,6 @@
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\TheExplorer\bin\Debug\TheExplorer.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\TheExplorer\bin\Debug\TheExplorer.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\TheExplorer\bin\Debug\TheExplorer.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\TheExplorer\obj\Debug\TheExplorer.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\TheExplorer\obj\Debug\TheExplorer.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\TheExplorer\obj\Debug\19_TheExplorer.csprojResolveAssemblyReference.cache

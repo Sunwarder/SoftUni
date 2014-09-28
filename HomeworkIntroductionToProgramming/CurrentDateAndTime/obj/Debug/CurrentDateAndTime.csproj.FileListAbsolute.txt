@@ -1,0 +1,5 @@
+D:\My Documents\Programming\Solution1\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\My Documents\Programming\Solution1\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+D:\My Documents\Programming\Solution1\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+D:\My Documents\Programming\Solution1\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\My Documents\Programming\Solution1\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

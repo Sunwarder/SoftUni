@@ -1,0 +1,6 @@
+D:\My Documents\Programming\HomeworkAdvancedTopics\JoinLists\bin\Debug\JoinLists.exe.config
+D:\My Documents\Programming\HomeworkAdvancedTopics\JoinLists\bin\Debug\JoinLists.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\JoinLists\bin\Debug\JoinLists.pdb
+D:\My Documents\Programming\HomeworkAdvancedTopics\JoinLists\obj\Debug\10_JoinLists.csprojResolveAssemblyReference.cache
+D:\My Documents\Programming\HomeworkAdvancedTopics\JoinLists\obj\Debug\JoinLists.exe
+D:\My Documents\Programming\HomeworkAdvancedTopics\JoinLists\obj\Debug\JoinLists.pdb

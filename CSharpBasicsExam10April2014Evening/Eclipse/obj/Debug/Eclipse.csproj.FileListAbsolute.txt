@@ -1,0 +1,5 @@
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\Eclipse\bin\Debug\Eclipse.exe.config
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\Eclipse\bin\Debug\Eclipse.exe
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\Eclipse\bin\Debug\Eclipse.pdb
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\Eclipse\obj\Debug\Eclipse.exe
+D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\Eclipse\obj\Debug\Eclipse.pdb

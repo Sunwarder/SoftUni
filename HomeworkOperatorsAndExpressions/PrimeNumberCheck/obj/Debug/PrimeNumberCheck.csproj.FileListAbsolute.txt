@@ -1,0 +1,8 @@
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+D:\My Documents\Programming\HomeworkOperatorsAndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
