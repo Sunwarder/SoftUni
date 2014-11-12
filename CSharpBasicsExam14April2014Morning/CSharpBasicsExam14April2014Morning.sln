@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitMarket", "FruitMarket\FruitMarket.csproj", "{04E63740-4B9A-4774-8790-678D2C065C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggestTriple", "biggestTriple\BiggestTriple.csproj", "{21FA263C-623F-48CE-A248-9A1A395B2E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitShooter", "BitShooter\BitShooter.csproj", "{29E31AE6-1FA8-428A-8A41-05A31FC8CD0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E63740-4B9A-4774-8790-678D2C065C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E63740-4B9A-4774-8790-678D2C065C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E63740-4B9A-4774-8790-678D2C065C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E63740-4B9A-4774-8790-678D2C065C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FA263C-623F-48CE-A248-9A1A395B2E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FA263C-623F-48CE-A248-9A1A395B2E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FA263C-623F-48CE-A248-9A1A395B2E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FA263C-623F-48CE-A248-9A1A395B2E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E31AE6-1FA8-428A-8A41-05A31FC8CD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E31AE6-1FA8-428A-8A41-05A31FC8CD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E31AE6-1FA8-428A-8A41-05A31FC8CD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E31AE6-1FA8-428A-8A41-05A31FC8CD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

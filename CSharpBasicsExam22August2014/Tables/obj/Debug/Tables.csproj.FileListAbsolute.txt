@@ -1,0 +1,6 @@
+D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Tables\bin\Debug\Tables.exe.config
+D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Tables\bin\Debug\Tables.exe
+D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Tables\bin\Debug\Tables.pdb
+D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Tables\obj\Debug\Tables.exe
+D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Tables\obj\Debug\Tables.pdb
