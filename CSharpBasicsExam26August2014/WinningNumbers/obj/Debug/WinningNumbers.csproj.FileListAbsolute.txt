@@ -1,6 +1,0 @@
-D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\WinningNumbers\bin\Debug\WinningNumbers.exe.config
-D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\WinningNumbers\bin\Debug\WinningNumbers.exe
-D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\WinningNumbers\bin\Debug\WinningNumbers.pdb
-D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\WinningNumbers\obj\Debug\WinningNumbers.exe
-D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\WinningNumbers\obj\Debug\WinningNumbers.pdb
-D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\WinningNumbers\obj\Debug\WinningNumbers.csprojResolveAssemblyReference.cache
