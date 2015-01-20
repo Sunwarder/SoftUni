@@ -60,9 +60,9 @@ namespace Persons
         {
             if (!string.IsNullOrEmpty(this.email))
             {
-                return "I am " + this.name + ". I am " + this.age + " years old. My email is: " + this.email;
+                return "I am " + this.Name + ". I am " + this.Age + " years old. My email is: " + this.Email;
             }
-            return "I am " + this.name + ". I am " + this.age + " years old.";
+            return "I am " + this.Name + ". I am " + this.Age + " years old.";
         }
     }
 

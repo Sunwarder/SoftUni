@@ -8,56 +8,59 @@ namespace Laptops
 {
     class Battery
     {
-        private string batteryType;
-        private float batteryLife;
+        //Fields
+        private string type;
+        private float life;
 
+        //Constructors
         public Battery(string type)
         {
-            this.BatteryType = type;
+            this.Type = type;
         }
 
         public Battery(string type, float life)
             : this(type)
         {
-            this.BatteryLife = life;
+            this.Life = life;
         }
 
-        public string BatteryType
+        //Properties
+        public string Type
         {
-            get { return this.batteryType; }
+            get { return this.type; }
             set
             {
                 if (value != null && value.Length < 1)
                 {
                     throw new ArgumentException("Battery type cannot be empty.");
                 }
-                this.batteryType = value;
+                this.type = value;
             }
         }
 
-        public float BatteryLife
+        public float Life
         {
-            get { return this.batteryLife; }
+            get { return this.life; }
             set
             {
                 if (value < 0)
                 {
                     throw new ArgumentOutOfRangeException("Battery life cannot be negative.");
                 }
-                this.batteryLife = value;
+                this.life = value;
             }
         }
 
         public override string ToString()
         {
             string result = null;
-            if (this.batteryType != null)
+            if (this.Type != null)
             {
-                result = "Battery: " + this.batteryType;
+                result = "Battery: " + this.Type;
             }
-            if (this.batteryLife > 0)
+            if (this.Life > 0)
             {
-                result += Environment.NewLine + "Battery Life: " + this.batteryLife + " hours";
+                result += Environment.NewLine + "Battery Life: " + this.Life + " hours";
             }
             return result;
         }

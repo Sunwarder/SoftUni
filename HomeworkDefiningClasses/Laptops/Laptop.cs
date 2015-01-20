@@ -164,18 +164,18 @@ namespace Laptops
 
         public override string ToString()
         {
-            string laptop = "Model: " + this.model;
+            string laptop = "Model: " + this.Model;
             if (this.Manufacturer != null)
             {
-                laptop += Environment.NewLine + "Manufacturer: " + this.manufacturer;
+                laptop += Environment.NewLine + "Manufacturer: " + this.Manufacturer;
             }
             if (this.Processor != null)
             {
-                laptop += Environment.NewLine + "Processor: " + this.processor;
+                laptop += Environment.NewLine + "Processor: " + this.Processor;
             }
             if (this.Ram != null)
             {
-                laptop += Environment.NewLine + "RAM: " + this.ram;
+                laptop += Environment.NewLine + "RAM: " + this.Ram;
                 if (Regex.IsMatch(this.ram, @"^\d+$")) 
                 {
                     laptop += " GB";
@@ -183,17 +183,17 @@ namespace Laptops
             }
             if (this.Hdd != null)
             {
-                laptop += Environment.NewLine + "HDD: " + this.hdd;
+                laptop += Environment.NewLine + "HDD: " + this.Hdd;
             }
             if (this.Screen != null)
             {
-                laptop += Environment.NewLine + "Screen: " + this.screen;
+                laptop += Environment.NewLine + "Screen: " + this.Screen;
             }
             if (this.Battery != null)
             {
-                laptop += Environment.NewLine + this.battery.ToString();
+                laptop += Environment.NewLine + this.Battery;
             }
-            laptop += Environment.NewLine + "Price: " + this.price;
+            laptop += Environment.NewLine + "Price: " + this.Price;
 
             return laptop;
         }
