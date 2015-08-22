@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\OddEvenSum\bin\Debug\OddEvenSum.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\OddEvenSum\bin\Debug\OddEvenSum.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\OddEvenSum\bin\Debug\OddEvenSum.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\OddEvenSum\obj\Debug\18_OddEvenSum.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\OddEvenSum\obj\Debug\OddEvenSum.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\OddEvenSum\obj\Debug\OddEvenSum.pdb

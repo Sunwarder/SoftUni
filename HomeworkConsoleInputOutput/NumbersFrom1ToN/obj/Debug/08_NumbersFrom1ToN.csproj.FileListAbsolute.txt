@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
-D:\My Documents\Programming\HomeworkConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
-D:\My Documents\Programming\HomeworkConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
-D:\My Documents\Programming\HomeworkConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

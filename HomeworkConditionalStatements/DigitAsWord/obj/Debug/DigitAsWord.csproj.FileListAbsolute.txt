@@ -1,1 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config

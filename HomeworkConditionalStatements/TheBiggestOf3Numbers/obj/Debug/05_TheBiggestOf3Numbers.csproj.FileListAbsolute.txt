@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe.config
-D:\My Documents\Programming\HomeworkConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.pdb
-D:\My Documents\Programming\HomeworkConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.pdb

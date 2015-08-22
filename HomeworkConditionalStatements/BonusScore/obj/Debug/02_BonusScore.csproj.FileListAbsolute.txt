@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
-D:\My Documents\Programming\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
-D:\My Documents\Programming\HomeworkConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

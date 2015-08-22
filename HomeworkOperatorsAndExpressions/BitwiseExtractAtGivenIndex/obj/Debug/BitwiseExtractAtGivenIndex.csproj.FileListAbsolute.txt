@@ -1,8 +1,0 @@
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.exe.config
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.pdb
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\BitwiseExtractAtGivenIndex.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\BitwiseExtractAtGivenIndex.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\BitwiseExtractAtGivenIndex.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\BitwiseExtractAtGivenIndex.pdb

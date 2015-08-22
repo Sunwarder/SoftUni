@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
-D:\My Documents\Programming\HomeworkLoops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
-D:\My Documents\Programming\HomeworkLoops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
-D:\My Documents\Programming\HomeworkLoops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
-D:\My Documents\Programming\HomeworkLoops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

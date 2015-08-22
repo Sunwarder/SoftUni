@@ -1,5 +1,0 @@
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\QuotesAndStrings\bin\Debug\QuotesAndStrings.exe.config
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\QuotesAndStrings\bin\Debug\QuotesAndStrings.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\QuotesAndStrings\bin\Debug\QuotesAndStrings.pdb
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\QuotesAndStrings\obj\Debug\QuotesAndStrings.exe
-D:\My Documents\Programming\Homework-Primitive-Data-Types-and-Variables\QuotesAndStrings\obj\Debug\QuotesAndStrings.pdb

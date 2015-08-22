@@ -1,1 +1,0 @@
-c:\users\uniuser\documents\visual studio 2013\Projects\RemoveNames\RemoveNames\bin\Debug\RemoveNames.exe.config

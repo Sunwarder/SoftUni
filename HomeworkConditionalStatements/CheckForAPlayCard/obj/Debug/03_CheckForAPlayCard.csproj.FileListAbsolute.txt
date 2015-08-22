@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
-D:\My Documents\Programming\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
-D:\My Documents\Programming\HomeworkConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

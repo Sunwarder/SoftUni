@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkLoops\RandomizeTheNumbers\bin\Debug\RandomizeTheNumbers.exe.config
-D:\My Documents\Programming\HomeworkLoops\RandomizeTheNumbers\bin\Debug\RandomizeTheNumbers.exe
-D:\My Documents\Programming\HomeworkLoops\RandomizeTheNumbers\bin\Debug\RandomizeTheNumbers.pdb
-D:\My Documents\Programming\HomeworkLoops\RandomizeTheNumbers\obj\Debug\RandomizeTheNumbers.exe
-D:\My Documents\Programming\HomeworkLoops\RandomizeTheNumbers\obj\Debug\RandomizeTheNumbers.pdb
-D:\My Documents\Programming\HomeworkLoops\RandomizeTheNumbers\obj\Debug\12_RandomizeTheNumbers.csprojResolveAssemblyReference.cache

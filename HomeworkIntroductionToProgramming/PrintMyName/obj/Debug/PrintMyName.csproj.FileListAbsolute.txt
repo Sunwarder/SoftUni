@@ -1,8 +1,0 @@
-D:\My Documents\Programming\Solution1\PrintMyName\bin\Debug\PrintMyName.exe.config
-D:\My Documents\Programming\Solution1\PrintMyName\bin\Debug\PrintMyName.exe
-D:\My Documents\Programming\Solution1\PrintMyName\bin\Debug\PrintMyName.pdb
-D:\My Documents\Programming\Solution1\PrintMyName\obj\Debug\PrintMyName.exe
-D:\My Documents\Programming\Solution1\PrintMyName\obj\Debug\PrintMyName.pdb
-D:\My Documents\Programming\HomeworkIntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
-D:\My Documents\Programming\HomeworkIntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
-D:\My Documents\Programming\HomeworkIntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb

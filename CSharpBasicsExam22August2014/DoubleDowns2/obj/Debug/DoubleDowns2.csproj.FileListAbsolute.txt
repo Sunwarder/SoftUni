@@ -1,5 +1,0 @@
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\DoubleDowns2\bin\Debug\DoubleDowns2.exe.config
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\DoubleDowns2\bin\Debug\DoubleDowns2.exe
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\DoubleDowns2\bin\Debug\DoubleDowns2.pdb
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\DoubleDowns2\obj\Debug\DoubleDowns2.exe
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\DoubleDowns2\obj\Debug\DoubleDowns2.pdb

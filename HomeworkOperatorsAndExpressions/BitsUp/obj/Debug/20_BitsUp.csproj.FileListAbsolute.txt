@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsUp\bin\Debug\BitsUp.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsUp\bin\Debug\BitsUp.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsUp\bin\Debug\BitsUp.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsUp\obj\Debug\20_BitsUp.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsUp\obj\Debug\BitsUp.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitsUp\obj\Debug\BitsUp.pdb

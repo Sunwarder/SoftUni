@@ -1,6 +1,0 @@
-D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\FruitMarket\bin\Debug\FruitMarket.exe.config
-D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\FruitMarket\bin\Debug\FruitMarket.exe
-D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\FruitMarket\bin\Debug\FruitMarket.pdb
-D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\FruitMarket\obj\Debug\FruitMarket.exe
-D:\My Documents\Programming\CSharpBasicsExam14April2014Morning\FruitMarket\obj\Debug\FruitMarket.pdb

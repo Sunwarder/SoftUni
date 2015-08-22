@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkAdvancedTopics\BitFlipper\obj\Debug\22_BitFlipper.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkAdvancedTopics\BitFlipper\bin\Debug\BitFlipper.exe.config
-D:\My Documents\Programming\HomeworkAdvancedTopics\BitFlipper\bin\Debug\BitFlipper.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\BitFlipper\bin\Debug\BitFlipper.pdb
-D:\My Documents\Programming\HomeworkAdvancedTopics\BitFlipper\obj\Debug\BitFlipper.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\BitFlipper\obj\Debug\BitFlipper.pdb

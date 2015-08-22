@@ -1,1 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.exe.config

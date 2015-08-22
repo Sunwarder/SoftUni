@@ -1,5 +1,0 @@
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Car\bin\Debug\Car.exe.config
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Car\bin\Debug\Car.exe
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Car\bin\Debug\Car.pdb
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Car\obj\Debug\Car.exe
-D:\My Documents\workspace\C#\CSharpBasicsExam22August2014\Car\obj\Debug\Car.pdb

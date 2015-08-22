@@ -1,5 +1,0 @@
-D:\My Documents\Programming\CsharpBasicsExam28April2014\FriendBits\bin\Debug\FriendBits.exe.config
-D:\My Documents\Programming\CsharpBasicsExam28April2014\FriendBits\bin\Debug\FriendBits.exe
-D:\My Documents\Programming\CsharpBasicsExam28April2014\FriendBits\bin\Debug\FriendBits.pdb
-D:\My Documents\Programming\CsharpBasicsExam28April2014\FriendBits\obj\Debug\FriendBits.exe
-D:\My Documents\Programming\CsharpBasicsExam28April2014\FriendBits\obj\Debug\FriendBits.pdb

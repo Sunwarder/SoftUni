@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\BitwiseExtractAtGivenIndex.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\BitwiseExtractAtGivenIndex.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\bin\Debug\BitwiseExtractAtGivenIndex.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitwiseExtractAtGivenIndex\obj\Debug\12_BitwiseExtractAtGivenIndex.csprojResolveAssemblyReference.cache

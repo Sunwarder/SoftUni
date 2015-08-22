@@ -1,1 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config

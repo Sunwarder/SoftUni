@@ -1,6 +1,0 @@
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitSifting\bin\Debug\BitSifting.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitSifting\bin\Debug\BitSifting.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitSifting\bin\Debug\BitSifting.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitSifting\obj\Debug\21_BitSifting.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitSifting\obj\Debug\BitSifting.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\BitSifting\obj\Debug\BitSifting.pdb

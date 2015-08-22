@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.exe.config
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.pdb
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestWordInText\obj\Debug\LongestWordInText.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\LongestWordInText\obj\Debug\LongestWordInText.pdb

@@ -1,5 +1,0 @@
-D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\HayvanNumbers\bin\Debug\HayvanNumbers.exe.config
-D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\HayvanNumbers\bin\Debug\HayvanNumbers.exe
-D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\HayvanNumbers\bin\Debug\HayvanNumbers.pdb
-D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\HayvanNumbers\obj\Debug\HayvanNumbers.exe
-D:\My Documents\Programming\CSharpBasicsExam10April2014Evening\HayvanNumbers\obj\Debug\HayvanNumbers.pdb

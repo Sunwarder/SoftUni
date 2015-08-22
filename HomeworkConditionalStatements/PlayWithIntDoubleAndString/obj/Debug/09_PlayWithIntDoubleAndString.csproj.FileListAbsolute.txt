@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
-D:\My Documents\Programming\HomeworkConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
-D:\My Documents\Programming\HomeworkConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb

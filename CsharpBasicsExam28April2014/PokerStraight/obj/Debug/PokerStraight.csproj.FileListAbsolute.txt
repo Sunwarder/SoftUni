@@ -1,6 +1,0 @@
-D:\My Documents\Programming\CsharpBasicsExam28April2014\PokerStraight\bin\Debug\PokerStraight.exe.config
-D:\My Documents\Programming\CsharpBasicsExam28April2014\PokerStraight\bin\Debug\PokerStraight.exe
-D:\My Documents\Programming\CsharpBasicsExam28April2014\PokerStraight\bin\Debug\PokerStraight.pdb
-D:\My Documents\Programming\CsharpBasicsExam28April2014\PokerStraight\obj\Debug\PokerStraight.csprojResolveAssemblyReference.cache
-D:\My Documents\Programming\CsharpBasicsExam28April2014\PokerStraight\obj\Debug\PokerStraight.exe
-D:\My Documents\Programming\CsharpBasicsExam28April2014\PokerStraight\obj\Debug\PokerStraight.pdb

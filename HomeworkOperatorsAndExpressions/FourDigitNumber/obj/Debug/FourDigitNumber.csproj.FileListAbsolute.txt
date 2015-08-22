@@ -1,9 +1,0 @@
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
-C:\Users\UniUser\Documents\Visual Studio 2013\Projects\svilen\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
-D:\My Documents\Programming\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.exe.config
-D:\My Documents\Programming\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.pdb
-D:\My Documents\Programming\HomeworkConditionalStatements\BeerTime\obj\Debug\BeerTime.exe
-D:\My Documents\Programming\HomeworkConditionalStatements\BeerTime\obj\Debug\BeerTime.pdb

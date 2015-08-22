@@ -1,5 +1,0 @@
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfNames\bin\Debug\CountOfNames.exe.config
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfNames\bin\Debug\CountOfNames.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfNames\bin\Debug\CountOfNames.pdb
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfNames\obj\Debug\CountOfNames.exe
-D:\My Documents\Programming\HomeworkAdvancedTopics\CountOfNames\obj\Debug\CountOfNames.pdb

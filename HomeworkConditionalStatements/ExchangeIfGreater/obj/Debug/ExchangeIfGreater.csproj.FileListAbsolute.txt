@@ -1,1 +1,0 @@
-D:\My Documents\Programming\HomeworkConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
